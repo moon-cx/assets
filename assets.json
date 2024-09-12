@@ -110,5 +110,33 @@
     "name": "$PUNK",
     "image": "https://cache.tonapi.io/imgproxy/mehFYlb1uDc1wa0RaKBQPCAKxBBiPcwIHHXd0-u4Ejo/rs:fill:200:200:1/g:no/aHR0cHM6Ly9wdW5rLW1ldGF2ZXJzZS5mcmExLmRpZ2l0YWxvY2VhbnNwYWNlcy5jb20vbG9nby9wdW5rLnBuZw.webp",
     "decimals": 9
+  },
+  {
+    "address": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
+    "symbol": "DOGS",
+    "name": "Dogs",
+    "image": "https://cache.tonapi.io/imgproxy/6Pb0sBFy_AzW6l39EIHGs-Iz4eLbbZUh8AYY_Xq-rcg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9jZG4uZG9ncy5kZXYvZG9ncy5wbmc.webp",
+    "decimals": 9
+  },
+  {
+    "address": "EQCXzO7HhoK5fDQuCONE43l8-Qsreq5zq89ZVNhEna24eK-h",
+    "symbol": "PEPE",
+    "name": "PEPE TON",
+    "image": "https://cache.tonapi.io/imgproxy/TpOUsr-12gB7Lq4ScJInXGcOv_fmbQpa4X145pXShu4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pbWFnZXVwLnJ1L2ltZzUvNDc3Mzk4NS9wZXBlLmpwZw.webp",
+    "decimals": 9
+  },
+  {
+    "address": "EQAVfEY2iKSpEkUhgFLFWAgHeSz2NH2XV-MvDuiKF5plSbsU",
+    "symbol": "XROCK",
+    "name": "xRocket Token",
+    "image": "https://cache.tonapi.io/imgproxy/WYEFmkl3Pji5LvPpDUaFwmTzAMS-ZSov9Q4eroZroIA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdGF0aWMueHJvY2tldC50Zy94cm9jay5wbmc.webp",
+    "decimals": 9
+  },
+  {
+    "address": "EQDv-yr41_CZ2urg2gfegVfa44PDPjIK9F-MilEDKDUIhlwZ",
+    "symbol": "ANON",
+    "name": "ANON",
+    "image": "https://cache.tonapi.io/imgproxy/3nkA_bafJ5kaFjWLLfiCc2TZ5vVZYeqzu4dtNwdKkCs/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLmliYi5jby8wTVpnODd6L0lNRy04Mzk5LnBuZw.webp.webp",
+    "decimals": 9
   }
 ]
