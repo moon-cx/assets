@@ -1,139 +1,159 @@
 [
   {
-    "address": "TON",
+    "type": "native",
+    "id": "TON",
     "symbol": "TON",
     "name": "TON",
     "image": "https://ton.org/download/ton_symbol.png",
     "decimals": 9
   },
   {
-    "address": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+    "type": "jetton",
+    "id": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
     "symbol": "USD₮",
     "name": "Tether USD",
     "image": "https://cache.tonapi.io/imgproxy/T3PB4s7oprNVaJkwqbGg54nexKE0zzKhcrPv8jcWYzU/rs:fill:200:200:1/g:no/aHR0cHM6Ly90ZXRoZXIudG8vaW1hZ2VzL2xvZ29DaXJjbGUucG5n.webp",
     "decimals": 6
   },
   {
-    "address": "EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE",
+    "type": "jetton",
+    "id": "EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE",
     "symbol": "SCALE",
     "name": "Scaleton",
     "image": "https://cache.tonapi.io/imgproxy/5NPQb4dU02LiwsCpR9kW4hesLuqZwd5VRQXNC-K80bw/rs:fill:200:200:1/g:no/aXBmczovL1FtU01pWHNaWU1lZndyVFEzUDZIbkRRYUNwZWNTNEVXTHBnS0s1RVgxRzhpQTg.webp",
     "decimals": 9
   },
   {
-    "address": "EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO",
+    "type": "jetton",
+    "id": "EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO",
     "symbol": "STON",
     "name": "STON",
     "image": "https://cache.tonapi.io/imgproxy/u6g-Eo01CQbP5ugIlzQUZEzM3DsU6ixZ7Z8wwJ2r_4g/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdGF0aWMuc3Rvbi5maS9sb2dvL3N0b25fc3ltYm9sLnBuZw.webp",
     "decimals": 9
   },
   {
-    "address": "EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT",
+    "type": "jetton",
+    "id": "EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT",
     "symbol": "NOT",
     "name": "Notcoin",
     "image": "https://cache.tonapi.io/imgproxy/4KCMNm34jZLXt0rqeFm4rH-BK4FoK76EVX9r0cCIGDg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9jZG4uam9pbmNvbW11bml0eS54eXovY2xpY2tlci9ub3RfbG9nby5wbmc.webp",
     "decimals": 9
   },
   {
-    "address": "EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw",
+    "type": "jetton",
+    "id": "EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw",
     "symbol": "BOLT",
     "name": "Huebel Bolt",
     "image": "https://cache.tonapi.io/imgproxy/05DkTmM2Eu4YZX-ED0eQpRS8U1q7SbD3o1GC5r5ZTBw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9jbG91ZGZsYXJlLWlwZnMuY29tL2lwZnMvUW1YNDdkb2RVZzFhY1hveFlEVUxXVE5mU2hYUlc1dUhyQ21vS1NVTlI5eEtRdw.webp",
     "decimals": 9
   },
   {
-    "address": "EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O",
+    "type": "jetton",
+    "id": "EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O",
     "symbol": "GRAM",
     "name": "Gram",
     "image": "https://cache.tonapi.io/imgproxy/lNoY3YdNeBug53ixjK6hxT6XIX3_xoIYNqv-ykIQ1Aw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9ncmFtY29pbi5vcmcvaW1nL2ljb24ucG5n.webp",
     "decimals": 9
   },
   {
-    "address": "EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko",
+    "type": "jetton",
+    "id": "EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko",
     "symbol": "REDO",
     "name": "Resistance Dog",
     "image": "https://cache.tonapi.io/imgproxy/R-9iv8csp1jZ9ymWn4dvcnYC_z3seU2dCrDdU2whQn4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1Jlc2lzdGFuY2UtRG9nL3Jlc2lzdGFuY2UtZG9nL21haW4vcmVzaXN0YW5jZS1kb2cud2VicA.webp",
     "decimals": 9
   },
   {
-    "address": "EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav",
+    "type": "jetton",
+    "id": "EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav",
     "symbol": "tsTON",
     "name": "Tonstakers TON",
     "image": "https://cache.tonapi.io/imgproxy/GjhSro_E6Qxod2SDQeDhJA_F3yARNomyZFKeKw8TVOU/rs:fill:200:200:1/g:no/aHR0cHM6Ly90b25zdGFrZXJzLmNvbS9qZXR0b24vbG9nby5zdmc.webp",
     "decimals": 9
   },
   {
-    "address": "EQC-tdRjjoYMz3MXKW4pj95bNZgvRyWwZ23Jix3ph7guvHxJ",
+    "type": "jetton",
+    "id": "EQC-tdRjjoYMz3MXKW4pj95bNZgvRyWwZ23Jix3ph7guvHxJ",
     "symbol": "KINGY",
     "name": "KINGYTON",
     "image": "https://cache.tonapi.io/imgproxy/yFer2GtQ4Jz-GbW8FIGD_69r8GH7GNkHvYZGy3fikJ0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLmliYi5jby9GYlRDS1JQL2xvZ290b2tlbmtpbmd5LnBuZw.webp",
     "decimals": 9
   },
   {
-    "address": "EQD26zcd6Cqpz7WyLKVH8x_cD6D7tBrom6hKcycv8L8hV0GP",
+    "type": "jetton",
+    "id": "EQD26zcd6Cqpz7WyLKVH8x_cD6D7tBrom6hKcycv8L8hV0GP",
     "symbol": "DFC",
     "name": "DeFinder Capital",
     "image": "https://cache.tonapi.io/imgproxy/TENmVD1ZlCwI7F4dyM9k6PPyLzMrd7rZHIAyeom79SA/rs:fill:200:200:1/g:no/aHR0cHM6Ly90YW4tdG91Z2gtc2x1Zy0zNTEubXlwaW5hdGEuY2xvdWQvaXBmcy9RbVhRb2pKVVB2a0dDQ2VSOVF1OFd3bWNaRjFnTERZMjhlcExMaFBZdkR5OFRr.webp",
     "decimals": 9
   },
   {
-    "address": "EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h",
+    "type": "jetton",
+    "id": "EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h",
     "symbol": "RAFF",
     "name": "Ton Raffles Token",
     "image": "https://cache.tonapi.io/imgproxy/6VKr_dZtduhNvSMXTTZyA8mpNa5NeuHC83H4u9e7p1o/rs:fill:200:200:1/g:no/aHR0cHM6Ly90b25yYWZmbGVzLnN0b3JlL3JhZmZqZXR0b24vamV0dG9uLnN2Zw.webp",
     "decimals": 9
   },
   {
-    "address": "EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1",
+    "type": "jetton",
+    "id": "EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1",
     "symbol": "ARBUZ",
     "name": "ARBUZ",
     "image": "https://cache.tonapi.io/imgproxy/HxPeXiiX4pF3QFOJCnpmcEO8scn3vZsMstfXySfK5oI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvWEpnVmY3cGIvYXJiLnBuZw.webp",
     "decimals": 9
   },
   {
-    "address": "EQB02DJ0cdUD4iQDRbBv4aYG3htePHBRK1tGeRtCnatescK0",
+    "type": "jetton",
+    "id": "EQB02DJ0cdUD4iQDRbBv4aYG3htePHBRK1tGeRtCnatescK0",
     "symbol": "durev",
     "name": "povel durev",
     "image": "https://cache.tonapi.io/imgproxy/lly7Ft26Shh40sFthOzfRA3WJwZR1BOFQoRuhTrnQ8E/rs:fill:200:200:1/g:no/aHR0cHM6Ly9kdXJldi54eXovaW1hZ2VzLzI1Ni1iLnBuZw.webp",
     "decimals": 9
   },
   {
-    "address": "EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK",
+    "type": "jetton",
+    "id": "EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK",
     "symbol": "FISH",
     "name": "TON FISH MEMECOIN",
     "image": "https://cache.tonapi.io/imgproxy/64G--D3N6KARJulIFT18L3fSWk-6ZtXPBWDG_vZl9i8/rs:fill:200:200:1/g:no/aHR0cHM6Ly93d3cudG9uZmlzaC5pby9CTFVFQ09JTjIucG5n.webp",
     "decimals": 9
   },
   {
-    "address": "EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq",
+    "type": "jetton",
+    "id": "EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq",
     "symbol": "PUNK",
     "name": "$PUNK",
     "image": "https://cache.tonapi.io/imgproxy/mehFYlb1uDc1wa0RaKBQPCAKxBBiPcwIHHXd0-u4Ejo/rs:fill:200:200:1/g:no/aHR0cHM6Ly9wdW5rLW1ldGF2ZXJzZS5mcmExLmRpZ2l0YWxvY2VhbnNwYWNlcy5jb20vbG9nby9wdW5rLnBuZw.webp",
     "decimals": 9
   },
   {
-    "address": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
+    "type": "jetton",
+    "id": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
     "symbol": "DOGS",
     "name": "Dogs",
     "image": "https://cache.tonapi.io/imgproxy/6Pb0sBFy_AzW6l39EIHGs-Iz4eLbbZUh8AYY_Xq-rcg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9jZG4uZG9ncy5kZXYvZG9ncy5wbmc.webp",
     "decimals": 9
   },
   {
-    "address": "EQCXzO7HhoK5fDQuCONE43l8-Qsreq5zq89ZVNhEna24eK-h",
+    "type": "jetton",
+    "id": "EQCXzO7HhoK5fDQuCONE43l8-Qsreq5zq89ZVNhEna24eK-h",
     "symbol": "PEPE",
     "name": "PEPE TON",
     "image": "https://cache.tonapi.io/imgproxy/TpOUsr-12gB7Lq4ScJInXGcOv_fmbQpa4X145pXShu4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pbWFnZXVwLnJ1L2ltZzUvNDc3Mzk4NS9wZXBlLmpwZw.webp",
     "decimals": 9
   },
   {
-    "address": "EQAVfEY2iKSpEkUhgFLFWAgHeSz2NH2XV-MvDuiKF5plSbsU",
+    "type": "jetton",
+    "id": "EQAVfEY2iKSpEkUhgFLFWAgHeSz2NH2XV-MvDuiKF5plSbsU",
     "symbol": "XROCK",
     "name": "xRocket Token",
     "image": "https://cache.tonapi.io/imgproxy/WYEFmkl3Pji5LvPpDUaFwmTzAMS-ZSov9Q4eroZroIA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdGF0aWMueHJvY2tldC50Zy94cm9jay5wbmc.webp",
     "decimals": 9
   },
   {
-    "address": "EQDv-yr41_CZ2urg2gfegVfa44PDPjIK9F-MilEDKDUIhlwZ",
+    "type": "jetton",
+    "id": "EQDv-yr41_CZ2urg2gfegVfa44PDPjIK9F-MilEDKDUIhlwZ",
     "symbol": "ANON",
     "name": "ANON",
     "image": "https://cache.tonapi.io/imgproxy/3nkA_bafJ5kaFjWLLfiCc2TZ5vVZYeqzu4dtNwdKkCs/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLmliYi5jby8wTVpnODd6L0lNRy04Mzk5LnBuZw.webp",
