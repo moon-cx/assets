@@ -25,14 +25,6 @@
   },
   {
     "type": "jetton",
-    "id": "EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko",
-    "symbol": "REDO",
-    "name": "Resistance Dog",
-    "image": "https://moon.cx/storage/asset-logo-redo.png",
-    "decimals": 9
-  },
-  {
-    "type": "jetton",
     "id": "EQDNDv54v_TEU5t26rFykylsdPQsv5nsSZaH_v7JSJPtMitv",
     "symbol": "TONNEL",
     "name": "Tonnel Network Token",
