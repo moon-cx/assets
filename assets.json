@@ -33,10 +33,10 @@
   },
   {
     "type": "jetton",
-    "id": "EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT",
-    "symbol": "NOT",
-    "name": "Notcoin",
-    "image": "https://moon.cx/storage/asset-logo-not.png",
+    "id": "EQDNDv54v_TEU5t26rFykylsdPQsv5nsSZaH_v7JSJPtMitv",
+    "symbol": "TONNEL",
+    "name": "Tonnel Network Token",
+    "image": "https://moon.cx/storage/asset-logo-tonnel.png",
     "decimals": 9
   }
 ]
